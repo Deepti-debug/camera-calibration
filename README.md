@@ -7,8 +7,6 @@
 # Assignment-01
 The goal of the assignment is to familiarize you to the process of camera calibration, triangulation and image stiching
 
-Please raise doubts on the appropriate assignment thread on Moodle.
-
 # Instructions
 - Submit a report explaining your experiments and results achieved. Alternatively, you can also explain this as a markdown inside jupyter notebook only. 
 - Follow the directory structure as shown below: 
